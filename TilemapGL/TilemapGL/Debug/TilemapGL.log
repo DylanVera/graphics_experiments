@@ -1,0 +1,4 @@
+﻿  Program.cpp
+c:\users\dilen\code\projects\tilemapgl\tilemapgl\src\program.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  TilemapGL.vcxproj -> C:\Users\dilen\code\Projects\TilemapGL\Debug\TilemapGL.exe
+  TilemapGL.vcxproj -> C:\Users\dilen\code\Projects\TilemapGL\Debug\TilemapGL.pdb (Partial PDB)
